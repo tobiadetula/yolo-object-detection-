@@ -20,6 +20,7 @@ nvidia-nccl-cu12==2.21.5
 nvidia-nvjitlink-cu12==12.4.127
 nvidia-nvtx-cu12==12.4.127
 pillow==11.1.0
+PyYAML==6.0.2
 scikit-learn==1.6.1
 scipy==1.15.2
 setuptools==78.1.0
@@ -29,4 +30,5 @@ torch==2.6.0
 torchaudio==2.6.0
 torchvision==0.21.0
 triton==3.2.0
+typeguard==4.4.2
 typing_extensions==4.13.0
