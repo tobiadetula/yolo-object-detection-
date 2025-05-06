@@ -179,5 +179,5 @@ cython_debug/
 
 # Yolo stuff
 # Yolo stuff
-/yolo_tutorials/*
-dataset/*
+yolos_tutorials/
+dataset/
